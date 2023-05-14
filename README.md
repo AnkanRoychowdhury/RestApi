@@ -1,6 +1,6 @@
 # Build a REST API with Node, Express MongoDB & Postman!
 
-we will be creating a simple API that would allow people Create, Read, Update, Delete Ideas. We will do this by coding the data the users will be interacting with within our **IdeaApp** database and how it goes about manipulating them depending on what a user wants to do.
+We will be creating a simple API that would allow people Create, Read, Update, Delete Ideas. We will do this by coding the data the users will be interacting with within our **IdeaApp** database and how it goes about manipulating them depending on what a user wants to do.
 
 ## Project Requirements and Dependencies
 
