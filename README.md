@@ -13,7 +13,6 @@ Make sure that you have postman in your system.
 
 ## Creating Project....
 
-Here we will be using VS Code IDE for our project.
 Follow project structure of this [GitHub Repo](https://github.com/AnkanRoychowdhury/RestApi)
 Refer to the next section
 
@@ -30,7 +29,3 @@ Now you are ready to run this project
 Run `npm start`
 
 Facing issue ? Don't hesitate to reach out to me [Linkedin](https://www.linkedin.com/in/ankanroychowdhury/)  | [Twitter](https://twitter.com/ankan_exe)  | [Instagram](https://www.instagram.com/ankan_roychowdhury_/)
-
-## Let's Jump into REST
-
-Will update the full **Guide** here soon...
